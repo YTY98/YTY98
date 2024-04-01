@@ -1,6 +1,6 @@
 ## Introduction
-안녕하세요.\n
-AI를 좋아합니다.\n
+안녕하세요.
+AI를 좋아합니다.
 최근 관심분야는 **"Transformer"**, **"VIT"**, **"VQA"** 입니다
 ## Career
 영남대학교 컴퓨터공학과 재학중
