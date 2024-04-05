@@ -42,7 +42,7 @@
 
 
 <h3 align="center"> 📖 Major 📖  </h3>
-<h3 align="center"> Computer Engineering </h3>
+<h3 align="center"> Computer Science </h3>
 <div align="center">
 
 </div>
