@@ -2,23 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Taeyoung's%20%20Github&fontColor=FFFFFF&textBg=false" />
 
 
-
-<h3 align="center">✨ Tech Stack ✨</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c-0000FF?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C++-ff7751?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  </br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-  <img src="https://img.shields.io/badge/tensorflow-4d77cf.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-
-
 <br>
-
 <h3 align="center">✋"Hello, World!"✋</h3>
 
 
@@ -55,6 +39,21 @@
 
 <br>
 
+<h3 align="center">✨ Tech Stack ✨</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c-0000FF?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-ff7751?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  </br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-4d77cf.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+
+   <br>
+
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -62,9 +61,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-
- 
 
 
 <br>
@@ -91,8 +87,6 @@
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 
 
-
-
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
@@ -102,6 +96,8 @@
   </a>
 
   </br>
+
+  <br>
 
 
   
