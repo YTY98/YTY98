@@ -34,8 +34,7 @@
 
 <br>
 
-<h3 align="center"> 📑 Major Course 📑   </h3>
-<h3 align="center"> 알고리즘, 운영체제, 오픈소스SW의 이해, <br>오픈소스SW 설계, 컴퓨터 네트워크, 컴퓨터 그래픽스 </h3>
+
 
 <br>
 
